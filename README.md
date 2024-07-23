@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### About Me
+I am interested in everything related to tech:
+🐍 Python
+💻 Web development
+🤖 AI
+➕ So much more!!
+I am always looking to learn, and always love a challenge.
+
+- Gr33nSyntax 💚
+
 <!--
 **Gr33nSyntax/Gr33nSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
