@@ -4,7 +4,6 @@
 I am interested in everything related to tech: <br />
 🐍 Python<br />
 💻 Web development<br />
-🤖 AI <br />
 ➕ So much more!!<br />
 I am always looking to learn, and always love a challenge.<br /><br />
 
